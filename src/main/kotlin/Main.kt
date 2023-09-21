@@ -13,6 +13,6 @@ fun main(args: Array<String>) {
     println("Numero de punts: " + f.readInt())
     println("Punts: " + f.readInt())
     f.close()
-}
+    }
 }
 
